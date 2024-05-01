@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich1342)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mich1342&hide_progress=true)
+
+![](https://komarev.com/ghpvc/?username=mich1342)
+
+- 🔭 I’m currently working on developing ROS2 based robots
+
 <!--
 **mich1342/mich1342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
